@@ -1,4 +1,4 @@
  Console.WriteLine("Введите cторону треугольника a");
  double a = Convert.ToDouble(Console.ReadLine());
  double S = (a * a * Math.Sqrt(3)) / 4;
- Console.WriteLine("Площадь аавностороннего треугольника - S");
+ Console.WriteLine("Площадь равностороннего треугольника - S");
