@@ -1,0 +1,4 @@
+Console.WriteLine("Введите a");
+  double a = Convert.ToDouble(Console.ReadLine());
+  double R = (a  * Math.Sqrt(3)) / 3;
+  Console.WriteLine("Радиус Описанной окружности - R ");
